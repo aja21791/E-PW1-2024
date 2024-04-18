@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Operaciones Básicas</title>
+  </head>
+  <body class="bg-zinc-900 text-white">
+    <div class="flex justify-center items-center h-screen gap-x-2">
+      <form id="operationsForm" class="bg-zinc-700 p-10 rounded-md max-w-xs">
+        <label for="number1" class="block">Ingresa un número:</label>
+        <input
+          type="number"
+          id="number1"
+          placeholder="ej. 8"
+          class="bg-gray-800 px-1 py-2 w-full rounded-md mb-2"
+          required
+        />
+        <label for="number2" class="block">Ingresa otro número:</label>
+        <input
+          type="number"
+          id="number2"
+          placeholder="ej. 10"
+          class="bg-gray-800 px-1 py-2 w-full rounded-md mb-2"
+          required
+        />
+        <label for="operation" class="block">Selecciona una operación:</label>
+        <select
+          id="operation"
+          class="bg-gray-800 px-1 py-2 w-full rounded-md mb-2"
+        >
+          <option value="sum">Suma</option>
+          <option value="sub">Resta</option>
+          <option value="mul">Multiplicación</option>
+          <option value="div">División</option>
+        </select>
+        <button type="submit" class="bg-zinc-500 px-2 py-1 rounded-md w-full">
+          Calcular
+        </button>
+      </form>
+      <div class="bg-zinc-700 max-w-md w-full p-10">
+        <h2 class="text-center font-bold">Resultado</h2>
+        <p id="result" class="text-center text-2xl">0</p>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
