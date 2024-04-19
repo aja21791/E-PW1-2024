@@ -27,7 +27,7 @@
 - Ejercicio 11: Uso de Decoradores
   - [Resolución](<Ejercicios/Ejercicio11/README.md>)
 - Ejercicio 12: Uso de Promesas con múltiples operaciones
-  - [Resolución](<Ejercicios/>Ejercicio12/README.md>)
+  - [Resolución](<Ejercicios/Ejercicio12/README.md>)
 - Ejercicio 13: Uso de Tipos Avanzados
   - [Resolución](<Ejercicios/Ejercicio13/README.md>)
 - Ejercicio 14: Uso de Decoradores de Clase
