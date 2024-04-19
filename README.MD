@@ -5,9 +5,9 @@
 ### **Primera Parte**
 
 - Ejercicio 1: Conceptos básicos
-  - [Resolución](<Ejercicios/>Ejercicio1/README.md>)
+  - [Resolución](<Ejercicios/Ejercicio1/README.md>)
 - Ejercicio 2: Funciones y tipos de datos
-  - [Resolución](<Ejercicios/>Ejercicio2/README.md>)
+  - [Resolución](<Ejercicios/Ejercicio2/README.md>)
 - Ejercicio 3: Interfaces y clases
   - [Resolución](<Ejercicios/Ejercicio3/README.md>)
 - Ejercicio 4: Uso de módulos
