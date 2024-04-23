@@ -42,8 +42,3 @@
   - [Resolución](<Ejercicios/Ejercicio18/README.MD>)
 - Ejercicio 19: Uso de Intersection Types
   - [Resolución](<Ejercicios/Ejercicio19/README.MD>)
-
-### **Proyectos**
-
-- Proyecto 1: Sistema de Gestión de Tareas
-  - [Resolución](<Proyectos/Proyecto1/README.MD>)
